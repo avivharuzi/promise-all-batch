@@ -6,9 +6,9 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/avivharuzi/promise-all-batch?style=for-the-badge">
   </p>
   <p>
-    <a href="https://github.com/github_username/promise-all-batch/issues">Report Bug</a>
+    <a href="https://github.com/avivharuzi/promise-all-batch/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/promise-all-batch/issues">Request Feature</a>
+    <a href="https://github.com/avivharuzi/promise-all-batch/issues">Request Feature</a>
   </p>
 </div>
 
@@ -42,7 +42,7 @@ promiseAllBatch(arr, promiseCallback, size, {
 Basic example that every 1 second will execute 2 numbers in concurrent.
 
 ```typescript
-import { promiseAllBatch } from 'promise-all-batch';
+import {promiseAllBatch} from 'promise-all-batch';
 
 const results = await promiseAllBatch(
   [1, 2, 3, 4, 5, 6],
