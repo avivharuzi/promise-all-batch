@@ -1,6 +1,6 @@
 {
   "name": "promise-all-batch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Call concurrent promises in batches",
   "keywords": [
     "nodejs",
