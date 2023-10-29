@@ -1,6 +1,6 @@
 {
   "name": "promise-all-batch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Call concurrent promises in batches",
   "keywords": [
     "nodejs",
@@ -26,7 +26,6 @@
     "dist/**/*"
   ],
   "exports": "./dist/index.js",
-  "types": "./dist/types/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/avivharuzi/promise-all-batch.git"
